@@ -1,7 +1,7 @@
 <?php
 
-namespace Enzona;
-use Enzona\payment;
+namespace macroseso\Enzona;
+use macroseso\payment;
 
 
 
