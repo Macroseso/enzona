@@ -1,6 +1,7 @@
 <?php
 
 namespace macroseso\enzona;
+use macroseso\enzona\api\payment;
 
 
 
