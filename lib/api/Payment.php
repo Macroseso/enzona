@@ -1,7 +1,7 @@
 <?php
 
-namespace macroseso\enzona\api\payment;
-use macroseso\enzona;
+namespace Enzona\Payment;
+use Enzona;
 
 class Payment{
      // crear pago
