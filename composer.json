@@ -25,6 +25,6 @@
     },
     "autoload": {
         "psr-4": { "macroseso\\enzona\\" : "lib/" }
-    },
+    }
 }
 
