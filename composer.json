@@ -1,0 +1,20 @@
+{
+	"name": "macroseso/enzona",
+	"description": "Pasarela de pago enzona",
+	"license": "MIT",
+	"require": {
+		"php": "^7.0",
+		"macroseso/enzona": "^1.0"
+	},
+      "authors": [
+        {
+            "name": "Leodan Jesus Rodriguez Martinez",
+            "homepage": "https://github.com/Macroseso/enzona"
+        }
+    ],
+	"autoload": {
+		"psr-4": {
+			"macroseso\\enzona\\": "lib/"
+		}
+	},
+}
