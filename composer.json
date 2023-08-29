@@ -1,20 +1,30 @@
+
+
 {
-	"name": "macroseso/enzona",
+    	"name": "macroseso/enzona",
 	"description": "Pasarela de pago enzona",
 	"license": "MIT",
-	"require": {
-		"php": "^7.0",
-		"macroseso/enzona": "^1.0"
-	},
-      "authors": [
+    "version": "1.0.0",
+    "keywords": [
+        "enzona",
+        "payment",
+        "php",
+        "sdk",
+        "api"
+    ],
+    "homepage": "https://github.com/Macroseso/enzona",
+    "license": "MIT",
+    "authors": [
         {
-            "name": "Leodan Jesus Rodriguez Martinez",
+            "name": "Leodan Jesus Rodriguez MArtinez",
             "homepage": "https://github.com/Macroseso/enzona"
         }
     ],
-	"autoload": {
-		"psr-4": {
-			"macroseso\\enzona\\": "lib/"
-		}
-	},
+    "require": {
+        "php": ">=7",
+    },
+    "autoload": {
+        "psr-4": { "macroseso\\enzona\\" : "lib/" }
+    },
 }
+
